@@ -11,7 +11,7 @@ The maps were created manually using [geojson](http://geojson.io/) tools.
 * **Points** mark exact locations mentioned in the text: _cities and towns, villages, estates._ Each point contains information about the chapters where this location appears and in some cases the name of location.
 * **Lines** connect points that the character passes on his way. Each line represent one chapter.
 
-[Point](https://github.com/brouhahaha/geotest/blob/master/point.png?raw=true)
+[Point](point.png)
 
 # Maps:
 
