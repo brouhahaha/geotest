@@ -12,16 +12,28 @@ The maps were created manually using [geojson](http://geojson.io/) tools.
 * **Lines** connect points that the character passes on his way. Each line represent one chapter.
 
 [Chapter 1](https://github.com/brouhahaha/geotest/blob/master/chapters/ch1.geojson)
+
 [Chapter 2](https://github.com/brouhahaha/geotest/blob/master/chapters/ch2.geojson)
+
 [Chapter 3](https://github.com/brouhahaha/geotest/blob/master/chapters/ch3.geojson)
+
 [Chapter 4](https://github.com/brouhahaha/geotest/blob/master/chapters/ch4.geojson)
+
 [Chapter 5](https://github.com/brouhahaha/geotest/blob/master/chapters/chapter5.geojson)
+
 [Chapter 6](https://github.com/brouhahaha/geotest/blob/master/chapters/chapter6.geojson)
+
 [Chapter 7](https://github.com/brouhahaha/geotest/blob/master/chapters/chapter7.geojson)
+
 [Chapter 8](https://github.com/brouhahaha/geotest/blob/master/chapters/chapter8.geojson)
+
 [Chapter 9](https://github.com/brouhahaha/geotest/blob/master/chapters/chapter9.geojson)
+
 [Chapter 10](https://github.com/brouhahaha/geotest/blob/master/chapters/chapter10.geojson)
+
 [Chapter 11](https://github.com/brouhahaha/geotest/blob/master/chapters/chapter11.geojson)
+
 [Chapter 12](https://github.com/brouhahaha/geotest/blob/master/chapters/chapter12.geojson)
+
 [All chapters](https://github.com/brouhahaha/geotest/blob/master/all_chapters.geojson)
 
