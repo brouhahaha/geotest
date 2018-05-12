@@ -3,7 +3,7 @@
 
 Our **aim** was to visualize the itinerary of trips made by main character of an autobiographical book "My travels".
 
-In this book he describes how he traveled across Russia with circus, theater, army and on his own. We’ve read the book and took out all the places he explicitly says he visited. All the places are supported by a short citation in a separate file.
+In this book he describes how he traveled across Russia with circus, theater, army and on his own. We’ve read the book and took out all the places he explicitly says he visited. All the places are supported by a short citation in a separate [file](https://github.com/brouhahaha/geotest/blob/master/my_travels_comments.txt).
 
 The maps were created manually using [geojson](http://geojson.io/) tools. 
 
